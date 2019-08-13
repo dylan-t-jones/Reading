@@ -3,3 +3,5 @@ https://css.csail.mit.edu/6.858/2014/readings/i386.pdf - x86 manual
 https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/ - alsr
 https://bytesoverbombs.io/bypassing-dep-with-rop-32-bit-39884e8a2c4a - dep
 https://ropemporium.com/index.html - rop
+https://securitychops.com/2018/05/16/slae-assignment-1-shell-bind-tcp-shellcode.html - remote shell
+https://syscalls.kernelgrok.com/ - syscalls
