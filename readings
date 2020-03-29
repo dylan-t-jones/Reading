@@ -12,3 +12,4 @@ http://man7.org/linux/man-pages/man2/ptrace.2.html - Debugging
 https://wiki.mikrotik.com/wiki/Manual:Packet_Flow - Routing
 https://github.com/shellphish/how2heap - heap
 https://syedfarazabrar.com/2019-10-12-picoctf-2019-heap-challs/ - heap
+https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/ - heap
