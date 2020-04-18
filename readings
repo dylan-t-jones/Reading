@@ -16,3 +16,4 @@ https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/ - heap
 https://exploit.ph/linux-kernel-hacking/2014/07/10/system-call-hooking/ - kernel hacking
 http://phrack.org/issues/58/7.html - kernel hacking
 https://sourceware.org/systemtap/wiki - kernel instrumentation
+https://developer.ibm.com/tutorials/l-dynamic-libraries/ - loading
