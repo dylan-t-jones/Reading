@@ -17,3 +17,4 @@ https://exploit.ph/linux-kernel-hacking/2014/07/10/system-call-hooking/ - kernel
 http://phrack.org/issues/58/7.html - kernel hacking
 https://sourceware.org/systemtap/wiki - kernel instrumentation
 https://developer.ibm.com/tutorials/l-dynamic-libraries/ - loading
+https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html - writing tiny ELFs
