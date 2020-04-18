@@ -10,7 +10,7 @@ http://ermak.cs.nstu.ru/Understanding.Linux.Kernel.pdf - Kernel
 https://os.phil-opp.com/ - Kernel/Rust/Bootloader
 http://man7.org/linux/man-pages/man2/ptrace.2.html - Debugging
 https://wiki.mikrotik.com/wiki/Manual:Packet_Flow - Routing
-https://github.com/shellphish/how2heap - heap
+https://github.com/shellphish/how2heap - heap exploit
 https://syedfarazabrar.com/2019-10-12-picoctf-2019-heap-challs/ - heap
 https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/ - heap
 https://exploit.ph/linux-kernel-hacking/2014/07/10/system-call-hooking/ - kernel hacking
