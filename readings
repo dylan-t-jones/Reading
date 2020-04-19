@@ -18,3 +18,4 @@ http://phrack.org/issues/58/7.html - kernel hacking
 https://sourceware.org/systemtap/wiki - kernel instrumentation
 https://developer.ibm.com/tutorials/l-dynamic-libraries/ - loading
 https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html - writing tiny ELFs
+https://docs.oracle.com/cd/E19683-01/817-3677/chapter6-46512/index.html - ELF file format
