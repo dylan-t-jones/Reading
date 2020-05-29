@@ -23,3 +23,5 @@ http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html -
 https://revers.engineering/syscall-hooking-via-extended-feature-enable-register-efer/ - creative debugging/patching
 https://www.gnu.org/software/make/manual/html_node/index.html#SEC_Contents - Makefiles
 http://www.ethernut.de/en/documents/arm-inline-asm.html - gcc asm
+https://hackmd.io/@xff9N3eQTLSL4Trq-6setg/ByMHBMjFe?type=view - internals of cpython
+https://devguide.python.org/exploring/ - internals of python
