@@ -25,3 +25,8 @@ https://www.gnu.org/software/make/manual/html_node/index.html#SEC_Contents - Mak
 http://www.ethernut.de/en/documents/arm-inline-asm.html - gcc asm
 https://hackmd.io/@xff9N3eQTLSL4Trq-6setg/ByMHBMjFe?type=view - internals of cpython
 https://devguide.python.org/exploring/ - internals of python
+http://ermak.cs.nstu.ru/Understanding.Linux.Kernel.pdf
+https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Network%20Internals.pdf
+http://8.oldhacker.org/docs/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core(1).pdf
+https://bootlin.com/doc/books/ldd3.pdf
+https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html
