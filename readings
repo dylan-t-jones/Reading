@@ -30,3 +30,5 @@ https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Netwo
 http://8.oldhacker.org/docs/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core(1).pdf
 https://bootlin.com/doc/books/ldd3.pdf
 https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html
+https://github.com/torvalds/linux/blob/v4.14/Documentation/arm64/booting.txt
+https://s-matyukevich.github.io/raspberry-pi-os/docs/lesson01/linux/kernel-startup.html
