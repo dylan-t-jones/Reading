@@ -32,3 +32,4 @@ https://bootlin.com/doc/books/ldd3.pdf
 https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html
 https://github.com/torvalds/linux/blob/v4.14/Documentation/arm64/booting.txt
 https://s-matyukevich.github.io/raspberry-pi-os/docs/lesson01/linux/kernel-startup.html
+https://www.kernel.org/doc/html/latest/core-api/kobject.html
