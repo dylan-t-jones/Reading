@@ -27,7 +27,7 @@ https://hackmd.io/@xff9N3eQTLSL4Trq-6setg/ByMHBMjFe?type=view - internals of cpy
 https://devguide.python.org/exploring/ - internals of python
 http://ermak.cs.nstu.ru/Understanding.Linux.Kernel.pdf
 https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Network%20Internals.pdf
-http://8.oldhacker.org/docs/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core(1).pdf
+https://github.com/l34n/CySecBooks/blob/master/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core.pdf
 https://bootlin.com/doc/books/ldd3.pdf
 https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html
 https://github.com/torvalds/linux/blob/v4.14/Documentation/arm64/booting.txt
