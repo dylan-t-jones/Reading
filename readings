@@ -40,3 +40,5 @@ https://www.nds.ruhr-uni-bochum.de/media/attachments/files/2011/10/main.pdf - Bi
 https://elixir.bootlin.com/linux/v4.0/source/samples/trace_events/trace-events-sample.h -Adding trace points to the kernel
 https://realpython.com/cpython-source-code-guide/ - cpython source
 https://lkmidas.github.io/posts/
+https://swarm.ptsecurity.com/guide-to-p-code-injection/
+https://swarm.ptsecurity.com/creating-a-ghidra-processor-module-in-sleigh-using-v8-bytecode-as-an-example/
