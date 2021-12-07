@@ -39,9 +39,9 @@ https://pdfs.semanticscholar.org/932a/39e9c7cda540446575028f49d2a6328e1cfb.pdf -
 https://www.nds.ruhr-uni-bochum.de/media/attachments/files/2011/10/main.pdf - Binder
 https://elixir.bootlin.com/linux/v4.0/source/samples/trace_events/trace-events-sample.h -Adding trace points to the kernel
 https://realpython.com/cpython-source-code-guide/ - cpython source
-https://lkmidas.github.io/posts/
-https://swarm.ptsecurity.com/guide-to-p-code-injection/
-https://swarm.ptsecurity.com/creating-a-ghidra-processor-module-in-sleigh-using-v8-bytecode-as-an-example/
-https://github.com/stong/how-to-exploit-a-double-free
-https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html
+https://lkmidas.github.io/posts/ - CTF resource
+https://swarm.ptsecurity.com/guide-to-p-code-injection/ - Ghidra 
+https://swarm.ptsecurity.com/creating-a-ghidra-processor-module-in-sleigh-using-v8-bytecode-as-an-example/ - Ghidra
+https://github.com/stong/how-to-exploit-a-double-free - Heap
+https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html - Heap
 https://guyinatuxedo.github.io/45-automatic_exploit_generation/index.html - CTF resource
