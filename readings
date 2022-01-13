@@ -45,3 +45,5 @@ https://swarm.ptsecurity.com/creating-a-ghidra-processor-module-in-sleigh-using-
 https://github.com/stong/how-to-exploit-a-double-free - Heap
 https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html - Heap
 https://guyinatuxedo.github.io/45-automatic_exploit_generation/index.html - CTF resource
+https://wrongbaud.github.io/posts/writing-a-ghidra-loader/ - Writing a Ghidra Loader
+https://github.com/grant-h/ShannonBaseband/blob/master/reversing/ghidra/ShannonLoader/src/main/java/de/hernan/ShannonLoader.java - Ghidra Loader reference
